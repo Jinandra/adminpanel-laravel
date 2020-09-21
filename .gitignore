@@ -30,6 +30,7 @@ public/js/skins
 public/js/themes
 public/vendor
 public/js/skins/*.js
+.history
 
 composer.lock
 public/img/backend/blog_images/*
